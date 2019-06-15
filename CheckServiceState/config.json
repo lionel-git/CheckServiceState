@@ -1,0 +1,12 @@
+﻿{
+	"ServiceConfigs": [
+		{
+			"Name": "CheckDisk",
+			"Delay": 10
+		},
+		{
+			"Name": "CheckDisk2",
+			"Delay": 70
+		}
+	]
+}
